@@ -4,11 +4,18 @@
 ch02/ch02_1/node_modules
 ch02/ch02_1/.gitignore
 
+ch02/ch02_2/node_modules
+ch02/ch02_2/.gitignore
+
 # testing
 ch02/ch02_1/coverage
 
+ch02/ch02_2/coverage
+
 # production
 ch02/ch02_1/build
+
+ch02/ch02_2/build
 
 # misc
 ch02/ch02_1/.DS_Store
@@ -20,3 +27,14 @@ ch02/ch02_1/.env.production.local
 ch02/ch02_1/npm-debug.log*
 ch02/ch02_1/yarn-debug.log*
 ch02/ch02_1/yarn-error.log*
+
+
+ch02/ch02_2/.DS_Store
+ch02/ch02_2/.env.local
+ch02/ch02_2/.env.development.local
+ch02/ch02_2/.env.test.local
+ch02/ch02_2/.env.production.local
+
+ch02/ch02_2/npm-debug.log*
+ch02/ch02_2/yarn-debug.log*
+ch02/ch02_2/yarn-error.log*

@@ -2,8 +2,7 @@
 
 # dependencies
 ch02/ch02_1/node_modules
-ch02/ch02_1/.pnp
-ch02/ch02_1/.pnp.js
+ch02/ch02_1/.gitignore
 
 # testing
 ch02/ch02_1/coverage
